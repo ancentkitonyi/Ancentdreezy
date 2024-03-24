@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @ancentkitonyi
-- 👀 I’m interested in web develoment
+- 👋 Hi, Welcome to my GitHub profile!
+- 👨‍💻 I’m @ancentkitonyi.
+- 👀 I’m interested in web development
 - 📫 How to reach me: ancentkitonyi.m@gmail.com
 
 <!---
